@@ -2,7 +2,7 @@ class SystemTheme < Formula
   desc "Switch between macOS light/dark themes from CLI"
   homepage "https://github.com/alberto-lazari/system-theme"
   url "https://github.com/alberto-lazari/system-theme/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "fb6bf523b7f33b96f6b88375c37182a9f8e085aa42efd3d1f479af3f51413038"
+  sha256 "3849d3af51e80bc1d0055e4df9c836c197d56a466bb1c57185be4ec1f68b2b3a"
   license "GPL-3.0-or-later"
   head "https://github.com/alberto-lazari/system-theme.git", branch: "main"
 
