@@ -6,8 +6,6 @@ class SystemTheme < Formula
   license "GPL-3.0-or-later"
   head "https://github.com/alberto-lazari/system-theme.git", branch: "main"
 
-  depends_on :macos => :mojave
-
   def install
     bin.install "system-theme"
   end
